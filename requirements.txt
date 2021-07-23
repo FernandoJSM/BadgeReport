@@ -1,0 +1,4 @@
+pybadges ~=2.2.1
+coverage ~= 5.5
+pytest ~= 6.0.2
+pylint ~= 2.9.5
